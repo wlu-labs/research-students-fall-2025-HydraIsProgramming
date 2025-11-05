@@ -18,3 +18,12 @@
 
 ### Week 6 (Date:   )
     - Ben, Completed the dataset mentioned previously for the 32 buildings, via stats canada found a 2023 breakdown of ontario population by FSA and used those population numbers as well as the EV fsa numbers to calculate an adoption rate. I was able to predict the number of people in a given building by taking the average household size by fsa and multiplying it by the number of units in a given building. With these two values we are able to predict on average how many EVs will be in a building based on the averages for that fsa. I have passed this data onto ranjot to work on the code implimentation to achieve a working proof of concept. Dharm has also collected an additional 18 building at my request to bring our dataset to an even 50 sample buildings.
+
+### Week 7
+    - Ben, Slower week interms of personal progress on the research project. With the previous trial dataset handed off to ranjot to work on developing the first model and having midterms taking up most of my spare time. Helping and answering Ranjots questions whenever needed. Participated in all meetings.
+
+### Week 8
+    - Ben, Discussed progress on code front with Ranjot, progress is going well with the model able to accomplish the task we wanted it to, issue with the accuracy. Provided help were needed and have been doing research on how to grow the dataset as fast and accurate as possible. Missed the friday meeting due to prior engagements, was updated by Ranjot on the information I missed and will continue to find  a way to gather as much data as possible and help him with the equations to get the model on the level we want it. Need to add ranges, increase accurarcy and potentially change which approach to the model we have chosen once we can do more testing on a larger dataset.
+
+### Week 9
+    - Ben, Was able to  find a toronto apartment dataset with roughly 3500 enteries containing all toronto buildings with more then 3 stories and or 10+ units. The dataset included the FSA for each building matching previously collected data perfectly. Was able to clean the set removing not needed information and finished off with the following data: Address, FSA, BEV#, PHEV#, Total EV, Population, Average Household Size, Adoption rate based off total EV for now, and number of people per building. This is a massive improvement from the previous dataset and should be greatly better to train the model, expecting to see great improvement.
