@@ -1,0 +1,241 @@
+﻿REF_DATE,GEO,Fuel type,VALUE
+Jan-18,Canada,All fuel types,406109
+Apr-18,Canada,All fuel types,607469
+Jul-18,Canada,All fuel types,539801
+Oct-18,Canada,All fuel types,422213
+Jan-19,Canada,All fuel types,402092
+Apr-19,Canada,All fuel types,575734
+Jul-19,Canada,All fuel types,532445
+Oct-19,Canada,All fuel types,421710
+Jan-20,Canada,All fuel types,336331
+Apr-20,Canada,All fuel types,305873
+Jul-20,Canada,All fuel types,508639
+Oct-20,Canada,All fuel types,394782
+Jan-21,Canada,All fuel types,375902
+Apr-21,Canada,All fuel types,486714
+Jul-21,Canada,All fuel types,446630
+Oct-21,Canada,All fuel types,337566
+Jan-22,Canada,All fuel types,340150
+Apr-22,Canada,All fuel types,431985
+Jul-22,Canada,All fuel types,394492
+Oct-22,Canada,All fuel types,346478
+Jan-23,Canada,All fuel types,355886
+Apr-23,Canada,All fuel types,473602
+Jul-23,Canada,All fuel types,457368
+Oct-23,Canada,All fuel types,428143
+Jan-24,Canada,All fuel types,414920
+Apr-24,Canada,All fuel types,511378
+Jul-24,Canada,All fuel types,483588
+Oct-24,Canada,All fuel types,443555
+Jan-25,Canada,All fuel types,426872
+Apr-25,Canada,All fuel types,541566
+Jan-18,Canada,Gasoline,380185
+Apr-18,Canada,Gasoline,562733
+Jul-18,Canada,Gasoline,500608
+Oct-18,Canada,Gasoline,391111
+Jan-19,Canada,Gasoline,373922
+Apr-19,Canada,Gasoline,527069
+Jul-19,Canada,Gasoline,489029
+Oct-19,Canada,Gasoline,388032
+Jan-20,Canada,Gasoline,303663
+Apr-20,Canada,Gasoline,277040
+Jul-20,Canada,Gasoline,457212
+Oct-20,Canada,Gasoline,346960
+Jan-21,Canada,Gasoline,326177
+Apr-21,Canada,Gasoline,416464
+Jul-21,Canada,Gasoline,384349
+Oct-21,Canada,Gasoline,288203
+Jan-22,Canada,Gasoline,283318
+Apr-22,Canada,Gasoline,351666
+Jul-22,Canada,Gasoline,319037
+Oct-22,Canada,Gasoline,279160
+Jan-23,Canada,Gasoline,285416
+Apr-23,Canada,Gasoline,367146
+Jul-23,Canada,Gasoline,343102
+Oct-23,Canada,Gasoline,320848
+Jan-24,Canada,Gasoline,313579
+Apr-24,Canada,Gasoline,383701
+Jul-24,Canada,Gasoline,339576
+Oct-24,Canada,Gasoline,296534
+Jan-25,Canada,Gasoline,312170
+Apr-25,Canada,Gasoline,405169
+Jan-18,Canada,Diesel,14642
+Apr-18,Canada,Diesel,21760
+Jul-18,Canada,Diesel,19647
+Oct-18,Canada,Diesel,14548
+Jan-19,Canada,Diesel,13234
+Apr-19,Canada,Diesel,16073
+Jul-19,Canada,Diesel,16828
+Oct-19,Canada,Diesel,12996
+Jan-20,Canada,Diesel,13391
+Apr-20,Canada,Diesel,13101
+Jul-20,Canada,Diesel,19411
+Oct-20,Canada,Diesel,18836
+Jan-21,Canada,Diesel,18092
+Apr-21,Canada,Diesel,20043
+Jul-21,Canada,Diesel,14412
+Oct-21,Canada,Diesel,13296
+Jan-22,Canada,Diesel,15985
+Apr-22,Canada,Diesel,23045
+Jul-22,Canada,Diesel,19681
+Oct-22,Canada,Diesel,16536
+Jan-23,Canada,Diesel,16567
+Apr-23,Canada,Diesel,19766
+Jul-23,Canada,Diesel,18106
+Oct-23,Canada,Diesel,19589
+Jan-24,Canada,Diesel,17980
+Apr-24,Canada,Diesel,20922
+Jul-24,Canada,Diesel,21866
+Oct-24,Canada,Diesel,18980
+Jan-25,Canada,Diesel,23637
+Apr-25,Canada,Diesel,24222
+Jan-18,Canada,All zero-emission vehicles,6844
+Apr-18,Canada,All zero-emission vehicles,14886
+Jul-18,Canada,All zero-emission vehicles,12544
+Oct-18,Canada,All zero-emission vehicles,10020
+Jan-19,Canada,All zero-emission vehicles,8282
+Apr-19,Canada,All zero-emission vehicles,19447
+Jul-19,Canada,All zero-emission vehicles,16207
+Oct-19,Canada,All zero-emission vehicles,12036
+Jan-20,Canada,All zero-emission vehicles,11542
+Apr-20,Canada,All zero-emission vehicles,9323
+Jul-20,Canada,All zero-emission vehicles,17600
+Oct-20,Canada,All zero-emission vehicles,15945
+Jan-21,Canada,All zero-emission vehicles,17356
+Apr-21,Canada,All zero-emission vehicles,24118
+Jul-21,Canada,All zero-emission vehicles,23969
+Oct-21,Canada,All zero-emission vehicles,21014
+Jan-22,Canada,All zero-emission vehicles,26034
+Apr-22,Canada,All zero-emission vehicles,29840
+Jul-22,Canada,All zero-emission vehicles,34316
+Oct-22,Canada,All zero-emission vehicles,33420
+Jan-23,Canada,All zero-emission vehicles,30978
+Apr-23,Canada,All zero-emission vehicles,47685
+Jul-23,Canada,All zero-emission vehicles,57406
+Oct-23,Canada,All zero-emission vehicles,52687
+Jan-24,Canada,All zero-emission vehicles,48425
+Apr-24,Canada,All zero-emission vehicles,65799
+Jul-24,Canada,All zero-emission vehicles,75788
+Oct-24,Canada,All zero-emission vehicles,81216
+Jan-25,Canada,All zero-emission vehicles,37229
+Apr-25,Canada,All zero-emission vehicles,46366
+Jan-18,Canada,Battery electric,2639
+Apr-18,Canada,Battery electric,7401
+Jul-18,Canada,Battery electric,6558
+Oct-18,Canada,Battery electric,5984
+Jan-19,Canada,Battery electric,5282
+Apr-19,Canada,Battery electric,12371
+Jul-19,Canada,Battery electric,10139
+Oct-19,Canada,Battery electric,7758
+Jan-20,Canada,Battery electric,8021
+Apr-20,Canada,Battery electric,6207
+Jul-20,Canada,Battery electric,12855
+Oct-20,Canada,Battery electric,11963
+Jan-21,Canada,Battery electric,12760
+Apr-21,Canada,Battery electric,16275
+Jul-21,Canada,Battery electric,15851
+Oct-21,Canada,Battery electric,14247
+Jan-22,Canada,Battery electric,19705
+Apr-22,Canada,Battery electric,21764
+Jul-22,Canada,Battery electric,29376
+Oct-22,Canada,Battery electric,27775
+Jan-23,Canada,Battery electric,24217
+Apr-23,Canada,Battery electric,35633
+Jul-23,Canada,Battery electric,43763
+Oct-23,Canada,Battery electric,40053
+Jan-24,Canada,Battery electric,35782
+Apr-24,Canada,Battery electric,48552
+Jul-24,Canada,Battery electric,56197
+Oct-24,Canada,Battery electric,61802
+Jan-25,Canada,Battery electric,26401
+Apr-25,Canada,Battery electric,29502
+Jan-18,Canada,Plug-in hybrid electric,4205
+Apr-18,Canada,Plug-in hybrid electric,7485
+Jul-18,Canada,Plug-in hybrid electric,5986
+Oct-18,Canada,Plug-in hybrid electric,4036
+Jan-19,Canada,Plug-in hybrid electric,3000
+Apr-19,Canada,Plug-in hybrid electric,7076
+Jul-19,Canada,Plug-in hybrid electric,6068
+Oct-19,Canada,Plug-in hybrid electric,4278
+Jan-20,Canada,Plug-in hybrid electric,3521
+Apr-20,Canada,Plug-in hybrid electric,3116
+Jul-20,Canada,Plug-in hybrid electric,4745
+Oct-20,Canada,Plug-in hybrid electric,3982
+Jan-21,Canada,Plug-in hybrid electric,4596
+Apr-21,Canada,Plug-in hybrid electric,7843
+Jul-21,Canada,Plug-in hybrid electric,8118
+Oct-21,Canada,Plug-in hybrid electric,6767
+Jan-22,Canada,Plug-in hybrid electric,6329
+Apr-22,Canada,Plug-in hybrid electric,8076
+Jul-22,Canada,Plug-in hybrid electric,4940
+Oct-22,Canada,Plug-in hybrid electric,5645
+Jan-23,Canada,Plug-in hybrid electric,6761
+Apr-23,Canada,Plug-in hybrid electric,12052
+Jul-23,Canada,Plug-in hybrid electric,13643
+Oct-23,Canada,Plug-in hybrid electric,12634
+Jan-24,Canada,Plug-in hybrid electric,12643
+Apr-24,Canada,Plug-in hybrid electric,17247
+Jul-24,Canada,Plug-in hybrid electric,19591
+Oct-24,Canada,Plug-in hybrid electric,19414
+Jan-25,Canada,Plug-in hybrid electric,10828
+Apr-25,Canada,Plug-in hybrid electric,16864
+Jan-18,Canada,Hybrid electric,4368
+Apr-18,Canada,Hybrid electric,8011
+Jul-18,Canada,Hybrid electric,6933
+Oct-18,Canada,Hybrid electric,6499
+Jan-19,Canada,Hybrid electric,6596
+Apr-19,Canada,Hybrid electric,13057
+Jul-19,Canada,Hybrid electric,10350
+Oct-19,Canada,Hybrid electric,8613
+Jan-20,Canada,Hybrid electric,7725
+Apr-20,Canada,Hybrid electric,6395
+Jul-20,Canada,Hybrid electric,14407
+Oct-20,Canada,Hybrid electric,13016
+Jan-21,Canada,Hybrid electric,14272
+Apr-21,Canada,Hybrid electric,26089
+Jul-21,Canada,Hybrid electric,23900
+Oct-21,Canada,Hybrid electric,15053
+Jan-22,Canada,Hybrid electric,14812
+Apr-22,Canada,Hybrid electric,27422
+Jul-22,Canada,Hybrid electric,21453
+Oct-22,Canada,Hybrid electric,17362
+Jan-23,Canada,Hybrid electric,22919
+Apr-23,Canada,Hybrid electric,39000
+Jul-23,Canada,Hybrid electric,38751
+Oct-23,Canada,Hybrid electric,35017
+Jan-24,Canada,Hybrid electric,34934
+Apr-24,Canada,Hybrid electric,40945
+Jul-24,Canada,Hybrid electric,46355
+Oct-24,Canada,Hybrid electric,46821
+Jan-25,Canada,Hybrid electric,53828
+Apr-25,Canada,Hybrid electric,65809
+Jan-18,Canada,Other fuel types,70
+Apr-18,Canada,Other fuel types,79
+Jul-18,Canada,Other fuel types,69
+Oct-18,Canada,Other fuel types,35
+Jan-19,Canada,Other fuel types,58
+Apr-19,Canada,Other fuel types,88
+Jul-19,Canada,Other fuel types,31
+Oct-19,Canada,Other fuel types,33
+Jan-20,Canada,Other fuel types,10
+Apr-20,Canada,Other fuel types,14
+Jul-20,Canada,Other fuel types,9
+Oct-20,Canada,Other fuel types,25
+Jan-21,Canada,Other fuel types,5
+Apr-21,Canada,Other fuel types,0
+Jul-21,Canada,Other fuel types,0
+Oct-21,Canada,Other fuel types,0
+Jan-22,Canada,Other fuel types,1
+Apr-22,Canada,Other fuel types,12
+Jul-22,Canada,Other fuel types,5
+Oct-22,Canada,Other fuel types,0
+Jan-23,Canada,Other fuel types,6
+Apr-23,Canada,Other fuel types,5
+Jul-23,Canada,Other fuel types,3
+Oct-23,Canada,Other fuel types,2
+Jan-24,Canada,Other fuel types,2
+Apr-24,Canada,Other fuel types,11
+Jul-24,Canada,Other fuel types,3
+Oct-24,Canada,Other fuel types,4
+Jan-25,Canada,Other fuel types,8
+Apr-25,Canada,Other fuel types,0
