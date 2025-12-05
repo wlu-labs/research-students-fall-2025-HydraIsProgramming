@@ -27,3 +27,12 @@
 
 ### Week 9
     - Ben, Was able to  find a toronto apartment dataset with roughly 3500 enteries containing all toronto buildings with more then 3 stories and or 10+ units. The dataset included the FSA for each building matching previously collected data perfectly. Was able to clean the set removing not needed information and finished off with the following data: Address, FSA, BEV#, PHEV#, Total EV, Population, Average Household Size, Adoption rate based off total EV for now, and number of people per building. This is a massive improvement from the previous dataset and should be greatly better to train the model, expecting to see great improvement.
+
+### Week 10
+    - Ben, Attempted to validate EV adoption rate forecasting by having the python script ignore the 2025 year and have it follow the S curve based off of the 2018-2024 data. This did not work as 2025 EV sales are way down compared to previous years leading to an abnormially low adoption rate comparted to the training data. More parameters wil be needed to get a accurate forecast, more demographic data like income and population density.
+
+### Week 11
+    - Ben, located some data and shared it with tashneet to add as parameters to hopefully get a better accuracy on the adoption rate forecast once the parameters have been added at the FSA level. Started to organize my thoughts for my paper and outline the structure.
+
+### Week 12
+    - Ben, completed a 1st draft of my paper and shared it with the professor and tashneet for review. All focus has been on paper as the term comes to an end.
