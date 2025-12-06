@@ -2,18 +2,37 @@
 - This file contains a paragraph of 1000 Characters or more about the progress made by the student for each week. I am creating the place holder for it.
 
 ### Week 1 (Date:   )
-
+    - Ben, worked through literary readings to get a better understanding of the topic as well as current research going on in the field. Met with my project partner Ranjot over the weekend to discuss a rough plan as well as our personal goals and skills that could help us better understand each others strengths well working through this research term to best complete our goals. Finished reading 3 papers that were all focused on the idea off forecasting EV infrastructure in cities as well as research into charging techniques for EVs as well as the demand charging can put on the vehicle as well as the power grid. Ranjot and I ensured we read different papers to be able to communicate with one another and findings that would be important to our research and most effectively manage our time. All weekly meetings were attended, EV team meeting as well as our Friday group meeting.
 
 ### Week 2 (Date:   )
-
+    - Ben, Continued with some literature review, read a paper based on EV infastructre forcasting in a large EV filled city in China. The paper really showed how much infastructure demands can change based on how aggressive a city or country chooses to adopt EV vehicles. Started to remind myself of how to write SQL code and find the proper tools I would need to work on the data and get it into a Postgres data type to allow for us to continue to work on it using various tables and views. Continued to meet regulary with Ranjot through out the week and discuss each others findings as well as thoughts when it comes to our research. All meetings through out the week were atteneded including the EV team meeting and research team meeting.
 
 ### Week 3 (Date:   )
-
+    - Ben, Started work on the SQL database importing data on EV vehicle adoption statistics as well as building data for Onatrio, I am working in pgAdmin 4 for the SQL side of things and for the data on the buildings I had to install and learn the basics of how to use QGRIS to allow me to export the data from geographical data into my postgres DB to allow me to create tables and views with all of the data. Made good progress with tables and views on EV Adoption, Population data and having some issues organizing building data due to missing or empty data fields as well as having such a large amount of data involved. All weekly meetings were attended, EV team meeting as well as reseach team meeting. 
 
 ### Week 4 (Date:   )
-
+    - Ben, Continued to work on the postrgres database adding more views and tables as needed. Spent most of my time trying to clean up as much data as possible to avoid missing or empty data. Continued to have issues of efficiently importing, cleaning and organizing data in a timely manner to advance the research project. Raised my concerns in the EV team meeting and we decided to pivot to a smaller scale database to begin with by manually collecting data on buidlings such as, Building name, postal code, # of units, # of floors and then calculating the EV adoption rate for the area the building is in based off of the FSA (First three digits of postal code) and the population of the FSA. Continued discussions with Ranjot and Durhm to make sure everyone understood our new goal and could get started right away.
 
 ### Week 5 (Date:   )
-
+    - Ben, Collected the data mentioned previously for a total of 32 buildings, now the only critical step remaining is to define how we want to estimate the population of a given building based on number of units and average SQFT in Onatrio. Well researching all the building I also looked into parking data for most of the buildings I was looking into and discovered most parkinmg for buildings is not public information for how many spaces are available or how many chargers are already installed. most buildings had no information public at all with some having spot breakdowns. Progress should be able to made very soon once all data is defined on the software side of the things and we should be able to  actually run some kind of algorithm using the dataset of buildings to predict first the number of EV vehicles and then how many chargers would be needed as well as cost of setup and ROI information.
 
 ### Week 6 (Date:   )
+    - Ben, Completed the dataset mentioned previously for the 32 buildings, via stats canada found a 2023 breakdown of ontario population by FSA and used those population numbers as well as the EV fsa numbers to calculate an adoption rate. I was able to predict the number of people in a given building by taking the average household size by fsa and multiplying it by the number of units in a given building. With these two values we are able to predict on average how many EVs will be in a building based on the averages for that fsa. I have passed this data onto ranjot to work on the code implimentation to achieve a working proof of concept. Dharm has also collected an additional 18 building at my request to bring our dataset to an even 50 sample buildings.
+
+### Week 7
+    - Ben, Slower week interms of personal progress on the research project. With the previous trial dataset handed off to ranjot to work on developing the first model and having midterms taking up most of my spare time. Helping and answering Ranjots questions whenever needed. Participated in all meetings.
+
+### Week 8
+    - Ben, Discussed progress on code front with Ranjot, progress is going well with the model able to accomplish the task we wanted it to, issue with the accuracy. Provided help were needed and have been doing research on how to grow the dataset as fast and accurate as possible. Missed the friday meeting due to prior engagements, was updated by Ranjot on the information I missed and will continue to find  a way to gather as much data as possible and help him with the equations to get the model on the level we want it. Need to add ranges, increase accurarcy and potentially change which approach to the model we have chosen once we can do more testing on a larger dataset.
+
+### Week 9
+    - Ben, Was able to  find a toronto apartment dataset with roughly 3500 enteries containing all toronto buildings with more then 3 stories and or 10+ units. The dataset included the FSA for each building matching previously collected data perfectly. Was able to clean the set removing not needed information and finished off with the following data: Address, FSA, BEV#, PHEV#, Total EV, Population, Average Household Size, Adoption rate based off total EV for now, and number of people per building. This is a massive improvement from the previous dataset and should be greatly better to train the model, expecting to see great improvement.
+
+### Week 10
+    - Ben, Attempted to validate EV adoption rate forecasting by having the python script ignore the 2025 year and have it follow the S curve based off of the 2018-2024 data. This did not work as 2025 EV sales are way down compared to previous years leading to an abnormially low adoption rate comparted to the training data. More parameters wil be needed to get a accurate forecast, more demographic data like income and population density.
+
+### Week 11
+    - Ben, located some data and shared it with tashneet to add as parameters to hopefully get a better accuracy on the adoption rate forecast once the parameters have been added at the FSA level. Started to organize my thoughts for my paper and outline the structure.
+
+### Week 12
+    - Ben, completed a 1st draft of my paper and shared it with the professor and tashneet for review. All focus has been on paper as the term comes to an end.
